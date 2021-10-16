@@ -1,0 +1,5 @@
+﻿  Project 2.cpp
+D:\C++\Project 2\Project 2\Project 2.cpp(236,31): warning C4018: <: несоответствие типов со знаком и без знака
+D:\C++\Project 2\Project 2\Project 2.cpp(300,31): warning C4018: <: несоответствие типов со знаком и без знака
+D:\C++\Project 2\Project 2\Project 2.cpp(273): warning C4715: music1: значение возвращается не при всех путях выполнения
+  Project 2.vcxproj -> D:\C++\Project 2\Debug\Project 2.exe
